@@ -8,5 +8,8 @@ body {
 a {
   padding: 0 10px;
   background-color: grey;
-  
+}
+
+figcaption {
+  font-size: 0.8rem;
 }
